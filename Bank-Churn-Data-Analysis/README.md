@@ -25,7 +25,7 @@ This project analyzes customer churn in a bank using Excel. The goal is to ident
 
 - <a href="https://github.com/SantoshKumar902/Data-Analysis-Using-Exel/blob/main/Bank-Churn-Data-Analysis/Check%20Average%20Credit%20Score.png">Check Average Credit Score</a>
 
--<a href="https://github.com/SantoshKumar902/Data-Analysis-Using-Exel/blob/main/Bank-Churn-Data-Analysis/Difference%20in%20Customer%20average%20earning.png">Significant Difference in Customers Average Earning b/w Churned & Not Churned</a>
+- <a href="https://github.com/SantoshKumar902/Data-Analysis-Using-Exel/blob/main/Bank-Churn-Data-Analysis/Difference%20in%20Customer%20average%20earning.png">Significant Difference in Customers Average Earning b/w Churned & Not Churned</a>
 
 ## 🧠 Learnings
 - Hands-on experience with Excel dashboards.
