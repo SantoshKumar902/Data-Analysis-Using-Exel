@@ -6,6 +6,10 @@ This project analyzes customer churn in a bank using Excel. The goal is to ident
 ## Dataset Used
 - <a href="https://github.com/SantoshKumar902/Data-Analysis-Using-Exel/blob/main/Bank-Churn-Data-Analysis/Bank%20Churn%20Data%20Analysis.xlsx">Dataset</a>
 
+## 📎Google Sheeets File
+- <a href="https://docs.google.com/spreadsheets/d/1F5pfW73PH6hKIXeJLFrUWe8V4rDT39Zf649hABGtNpw/edit?usp=sharing"> Analyzed Dataset</a>
+
+
 ## 🧰 Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
 - Basic formulas and filtering
@@ -23,8 +27,6 @@ This project analyzes customer churn in a bank using Excel. The goal is to ident
 - Hands-on experience with Excel dashboards.
 - Learned to derive actionable insights from raw financial data.
 
-## 📎 File
-- `Bank Churn Data Analysis.xlsx`
 
-- Created folder and added README for Bank Churn Analysis
+  
 
